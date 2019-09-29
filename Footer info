@@ -1,0 +1,15 @@
+<ul class="one">
+						<li><a href="#Counseling">Counseling</a></li>
+						<li><a href="#Finanacial aid">Financial Aid</a></li>
+						<li><a href="#Bookstore">Bookstore</a></li>
+						<li><a href="#Admissions page">Admissions page</a></li>
+					</ul>
+ 					</li>
+ 					<li class="w3-hover-text-theme">
+  		  				<p>Quick Links</p>
+						<ul class="two">
+						<li><a href="#Maps">Maps</a></li>
+						<li><a href="#Tech Support">Tech Support</a></li>
+						<li><a href="#d2l">d2l</a></li>
+						<li><a href="#Faculty page">Faculty page</a></li>
+					</ul>
